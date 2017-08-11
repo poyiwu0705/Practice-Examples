@@ -1,0 +1,6 @@
+D:\Practice-Examples\TestLecture01-Examples\TestPractice01\bin\Debug\TestPractice01.exe.config
+D:\Practice-Examples\TestLecture01-Examples\TestPractice01\bin\Debug\TestPractice01.exe
+D:\Practice-Examples\TestLecture01-Examples\TestPractice01\bin\Debug\TestPractice01.pdb
+D:\Practice-Examples\TestLecture01-Examples\TestPractice01\obj\Debug\TestPractice01.csprojResolveAssemblyReference.cache
+D:\Practice-Examples\TestLecture01-Examples\TestPractice01\obj\Debug\TestPractice01.exe
+D:\Practice-Examples\TestLecture01-Examples\TestPractice01\obj\Debug\TestPractice01.pdb

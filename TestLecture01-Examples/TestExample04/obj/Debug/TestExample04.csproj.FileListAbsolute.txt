@@ -1,0 +1,5 @@
+D:\Practice-Examples\TestLecture01-Examples\TestExample04\bin\Debug\TestExample04.exe.config
+D:\Practice-Examples\TestLecture01-Examples\TestExample04\bin\Debug\TestExample04.exe
+D:\Practice-Examples\TestLecture01-Examples\TestExample04\bin\Debug\TestExample04.pdb
+D:\Practice-Examples\TestLecture01-Examples\TestExample04\obj\Debug\TestExample04.exe
+D:\Practice-Examples\TestLecture01-Examples\TestExample04\obj\Debug\TestExample04.pdb

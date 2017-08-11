@@ -1,0 +1,9 @@
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\bin\Debug\TestExample02.exe.config
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\bin\Debug\TestExample02.exe
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\bin\Debug\TestExample02.pdb
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\obj\Debug\TestExample02.csprojResolveAssemblyReference.cache
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\obj\Debug\TestExample02.Form1.resources
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\obj\Debug\TestExample02.Properties.Resources.resources
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\obj\Debug\TestExample02.csproj.GenerateResource.Cache
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\obj\Debug\TestExample02.exe
+D:\Practice-Examples\TestLecture01-Examples\TestExample02\obj\Debug\TestExample02.pdb

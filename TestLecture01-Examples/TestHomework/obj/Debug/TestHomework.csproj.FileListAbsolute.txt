@@ -1,0 +1,6 @@
+D:\Practice-Examples\TestLecture01-Examples\TestHomework\bin\Debug\TestHomework.exe.config
+D:\Practice-Examples\TestLecture01-Examples\TestHomework\bin\Debug\TestHomework.exe
+D:\Practice-Examples\TestLecture01-Examples\TestHomework\bin\Debug\TestHomework.pdb
+D:\Practice-Examples\TestLecture01-Examples\TestHomework\obj\Debug\TestHomework.csprojResolveAssemblyReference.cache
+D:\Practice-Examples\TestLecture01-Examples\TestHomework\obj\Debug\TestHomework.exe
+D:\Practice-Examples\TestLecture01-Examples\TestHomework\obj\Debug\TestHomework.pdb
