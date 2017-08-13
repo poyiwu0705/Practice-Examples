@@ -25,10 +25,10 @@ namespace TestHomework
             Console.Write("請輸入Type: ");
             string type = Console.ReadLine();
 
-            Console.Write("請輸入Height: ");
+            Console.Write("請輸入Species: ");
             string species = Console.ReadLine();
 
-            Console.Write("請輸入Species: ");
+            Console.Write("請輸入Height: ");
             string height = Console.ReadLine();
 
             Console.Write("請輸入Weight: ");
